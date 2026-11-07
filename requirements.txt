@@ -1,5 +1,5 @@
 
-tensorflow
+tensorflow==2.21.0
 numpy
-opencv-python-headless
-gradio
+opencv-python-headless==5.0.0.93
+gradio==6.31.0
